@@ -28,6 +28,7 @@
 # c="programmer."
 # d="a"
 # print(a,",",b,d,c)
+
 # a=12.5
 # b=1028397
 # c=5j
@@ -62,6 +63,8 @@
 
 # a="Hello i am Abhishek Chhetri and I live in butwal-8,Sukkhanagar....."
 # print(len(a))
+
+                      #Escape characters
 
 # print("Hello\nAbhishek")
 
@@ -122,6 +125,8 @@
 # else:
 #     print("Something went wrong!!!!\nCheck from beginning!!!!")
 
+
+                                   #LIST
 # a=[]
 # print(type(a))
 
@@ -149,6 +154,7 @@
 # l1.insert(1,"litchi")
 # print(l1)
 
+                     #WHILE LOOP
 # i=0
 # while i<10:
 #     print("I'm a python programmar...\n I'm very good at python...")
@@ -164,9 +170,6 @@
 #     print(i)
 # else:
 #     i+=1
-#     print(i)
-
-# for i in range(1,15):
 #     print(i)
 
 # i=0
@@ -205,8 +208,9 @@
 
 # print(newlist)
 
+                                # to print only those which ends with .pdf
 
-# l=["abc.mp3","cdf.mp4","efd.pdf","isk.pdf"]
+# l=["abc.mp3","cdf.mp4","efd.pdf","isk.pdf","hlo.pdf","hi.mp5"]
 # l2=[]
 # for i in l:
 #         a=i[-3:]
@@ -214,17 +218,12 @@
 #                 l2.append(i)
 # print(l2)
 
-
-
 # l=["abc.mp3","cdf.mp4","efd.pdf","isk.pdf"]
 # l2=[]
 
 # l2 = [i for i in l if i.endswith(".pdf")]
 
 # print(l2)
-        
-       
-
 
 # l=["apple","banana","mango"]
 # l2=[]
